@@ -19,19 +19,15 @@
                                                                                
 
 /* TEAM */
-		Alejandro Lopez Osornio
-		Contact: alopez@termmed.com
-
-		Rory Davidson
-		Contact: rda@ihtsdo.org
+		Contact: otf@ihtsdo.org
 
 /* THANKS */
 
-		termmed.com, ihtsdo.org
+		ihtsdo.org
 
 /* SITE */
-		Domain name: browser.ihtsdo.org
-		Last update: 2014-04-13
+		Domain name: ihtsdotools.org
+		Last update: 2014-05-08
 		Language: English
 		Standards: HTML5 CSS3
-		IDE: TextWrangler, Aptana, Webstorm
+		IDE: TextWrangler, Aptana
