@@ -23,6 +23,9 @@ xhr.onreadystatechange = function () {
                     case "stopped":
                         color = 'red';
                         break;
+                    case "live":
+                        color = 'green';
+                        break;
                 }
         	if (items[key].section==='development')
         	{

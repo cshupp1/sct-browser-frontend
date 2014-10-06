@@ -1,9 +1,9 @@
 [
     {
         "section"    : "development",
-        "status"      : "in testing",
-        "description"  : "Development has now started on Phase 2 development of the browser.",
-        "nextdate" : "29th September, 2014",
+        "status"      : "live",
+        "description"  : "The Browser has now moved to a production version, and is no longer in beta.",
+        "nextdate" : "iterative",
         "nextversionid" : ""
     }
 ]
