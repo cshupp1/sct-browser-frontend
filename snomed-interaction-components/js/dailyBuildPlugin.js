@@ -4,6 +4,7 @@
 function dailyBuildPanel(divElement, options) {
     var panel = this;
     this.subscribers = [];
+    this.subscriptions = [];
     var xhr = null;
     var title = "";
     var executionTime = "";
